@@ -1,0 +1,2 @@
+# myGit
+Beginning with GitHub
